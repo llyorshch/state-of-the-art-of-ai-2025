@@ -154,7 +154,7 @@ layout: center
 
 # We are hiring!
 
-<center><img src="./WeAreHiring.png" width=70% height=70%></center>
+<center><img src="./public/WeAreHiring.png" width=70% height=70%></center>
 <br>
 
 <center><em>https://www.flywire.com/company/careers</em></center>
