@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# State of the Art of AI in 2025
 
 To start the slide show:
 
@@ -9,3 +9,5 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+The slides are [published in GitHub Pages](https://llyorshch.github.io/state-of-the-art-of-ai-2025).
